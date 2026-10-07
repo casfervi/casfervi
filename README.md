@@ -1,6 +1,6 @@
 # Hi, I'm Vinícius 👋
 
-### Data Scientist | Computer Vision | Physics Enthusiast | Cat Research Assistant 🐈
+### Data Scientist | Physics | Ph.D.
 
 Data Scientist working with **data analysis, computer vision, 3D reconstruction, automation, and applied machine learning**.
 
