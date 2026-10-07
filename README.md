@@ -34,20 +34,20 @@ Usually both.
 
 ### Computer Vision & Scientific Computing
 
-`OpenCV` `NumPy` `SciPy` `Pandas`
+`OpenCV` `NumPy` `SciPy` `Pandas` `Matplotlib` `Pyplot`
 
 ### Machine Learning & Data
 
-`Scikit-learn` `Matplotlib`
+`Scikit-learn` `XGBoost` `Power BI` `Metabase`
 
 ### Computer Vision Topics
 
 `ArUco` `AprilTag` `Camera Calibration` `Pose Estimation`  
 `Stereo Vision` `Photogrammetry` `3D Reconstruction`
 
-### Other
-
-`Git` `Linux` `Jupyter`
+### Automation & Tools
+ 
+`n8n` `Git` `Jupyter`
 
 ---
 
@@ -76,6 +76,7 @@ Laptop + important work → Cat on keyboard
 Closed door            → Cat wants door open
 
 Opened door            → Cat no longer interested
+```
 
 ## 📫 Contact
 
