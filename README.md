@@ -38,5 +38,5 @@ Some of my projects involve:
 
 ## 📫 Contact
 
-- LinkedIn: (https://www.linkedin.com/in/vin%C3%ADcius-ferreira-402558112/)
-- GitHub: https://github.com/casfervi
+- [LinkedIn](https://www.linkedin.com/in/vin%C3%ADcius-ferreira-402558112/)
+- [GitHub](https://github.com/casfervi)
