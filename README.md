@@ -1,29 +1,55 @@
 # Hi, I'm Vinícius 👋
 
-Data Scientist working with data analysis, computer vision, 
-3D reconstruction, automation and applied machine learning.
+### Data Scientist | Computer Vision | Physics Enthusiast | Cat Research Assistant 🐈
+
+Data Scientist working with **data analysis, computer vision, 3D reconstruction, automation, and applied machine learning**.
+
+When I'm not debugging coordinate systems or wondering why a matrix has the wrong dimensions, there's a reasonable chance I'm thinking about physics.
+
+Or cats.
+
+Usually both.
+
+---
 
 ## 🔬 Areas of Interest
 
-- Computer Vision
-- Machine Learning
-- Data Science
-- 3D Reconstruction
-- Photogrammetry
-- Image Processing
-- Industrial and Subsea Applications
-- Scientific Computing
+- 👁️ Computer Vision
+- 📷 Image Processing
+- 🧊 3D Reconstruction
+- 📊 Data Science & Data Analysis
+- 🤖 Machine Learning
+- 📐 Photogrammetry & Camera Geometry
+- ⚛️ Physics
+- 🌊 Subsea Imaging & Engineering Applications
+- 🐈 Cats
+
+---
 
 ## 🛠️ Technologies
 
-- Python
-- OpenCV
-- NumPy
-- Pandas
-- SciPy
-- Matplotlib
-- Scikit-learn
-- Git
+### Languages
+
+`Python` `SQL`
+
+### Computer Vision & Scientific Computing
+
+`OpenCV` `NumPy` `SciPy` `Pandas`
+
+### Machine Learning & Data
+
+`Scikit-learn` `Matplotlib`
+
+### Computer Vision Topics
+
+`ArUco` `AprilTag` `Camera Calibration` `Pose Estimation`  
+`Stereo Vision` `Photogrammetry` `3D Reconstruction`
+
+### Other
+
+`Git` `Linux` `Jupyter`
+
+---
 
 ## 🚀 Projects
 
@@ -36,7 +62,22 @@ Some of my projects involve:
 - Computer vision for industrial inspection
 - Data processing and visualization tools
 
+---
+
+## 🐈 Important Scientific Observations
+
+After extensive experimental observation:
+
+```text
+Cat + empty box        → Cat inside box
+
+Laptop + important work → Cat on keyboard
+
+Closed door            → Cat wants door open
+
+Opened door            → Cat no longer interested
+
 ## 📫 Contact
 
-- [LinkedIn](https://www.linkedin.com/in/vin%C3%ADcius-ferreira-402558112/)
-- [GitHub](https://github.com/casfervi)
+- 💼[LinkedIn](https://www.linkedin.com/in/vin%C3%ADcius-ferreira-402558112/)
+- 💻[GitHub](https://github.com/casfervi)
