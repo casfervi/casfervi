@@ -61,6 +61,7 @@ Some of my projects involve:
 - 3D reconstruction from subsea video footage
 - Computer vision for industrial inspection
 - Data processing and visualization tools
+- Machine learning with datasets
 
 ---
 
