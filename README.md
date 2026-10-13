@@ -21,7 +21,6 @@ Usually both.
 - 🤖 Machine Learning
 - 📐 Photogrammetry & Camera Geometry
 - ⚛️ Physics
-- 🌊 Subsea Imaging & Engineering Applications
 - 🐈 Cats
 
 ---
