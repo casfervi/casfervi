@@ -4,12 +4,6 @@
 
 Data Scientist working with **data analysis, computer vision, 3D reconstruction, automation, and applied machine learning**.
 
-When I'm not debugging coordinate systems or wondering why a matrix has the wrong dimensions, there's a reasonable chance I'm thinking about physics.
-
-Or cats.
-
-Usually both.
-
 ---
 
 ## 🔬 Areas of Interest
